@@ -1,9 +1,0 @@
-server:
-  servlet:
-    context-path: /api
-app:
-  datasource:
-    jdbc-url: jdbc:postgresql://localhost:5433/empmgmt
-    username: postgres
-    password: Stop123
-    pool-size: 30
